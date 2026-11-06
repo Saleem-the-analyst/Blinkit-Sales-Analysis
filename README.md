@@ -78,7 +78,7 @@ Compare all KPIs across different outlet types.
 ## Tools Used
 
 - Microsoft Excel
-- SQL
+- SQL (SSMS)
 
 ---
 
